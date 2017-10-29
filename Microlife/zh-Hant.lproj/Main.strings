@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Log in"; ObjectID = "25s-zW-0Sk"; */
+"25s-zW-0Sk.title" = "Log in";
+
+/* Class = "UITabBarItem"; title = "Overview"; ObjectID = "C04-wB-5Im"; */
+"C04-wB-5Im.title" = "慨況";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "K3h-QS-jPZ"; */
+"K3h-QS-jPZ.title" = "歷史";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "MFL-V1-xFS"; */
+"MFL-V1-xFS.normalTitle" = "Start";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Vbe-XE-sEy"; */
+"Vbe-XE-sEy.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Reminder"; ObjectID = "foY-Fe-p5S"; */
+"foY-Fe-p5S.title" = "提醒";
+
+/* Class = "UITabBarItem"; title = "Setting"; ObjectID = "iUd-Lg-s5Z"; */
+"iUd-Lg-s5Z.title" = "設定";

@@ -1,0 +1,227 @@
+
+
+///////////********* 繁中版 *********///////////
+
+
+//共用  =======================================
+"Alert" = "注意";
+"Confirm" = "確定";
+"Cancel" = "取消";
+"Save" = "儲存";
+"HealthEducation" = "衛教資訊";
+"Notification" = "最新資訊";
+"About" = "關於";
+"Logout" = "登出";
+"Login" = "登入";
+"Please check your wifi" = "請確認你的wifi連線狀態";
+
+//email 相關
+"The Mail has been canceled" = "郵件已取消";
+"The Mail has been sent" = "郵件已傳送";
+"The Mial has been saved" = "郵件已儲存";
+"The Mail delivery failed" = "郵件寄送失敗";
+
+
+
+//info.Plist  =======================================
+"CFBundleDisplayName" = "MicroLife";
+
+
+
+//NavViewController =======================================
+"Microlife Connected Health+ offers a Privacy Mode for users who choose not to synchronize their data to Microlife Cloud. You do not need a Microlife Account to use Privacy Mode, and all your data are stored locally on your smart phone. Please Note that in Privacy Mode your data are not back up on cloud storage, and you will not receive any service-related and promotional information from Microlife." = "進入此模式後，APP上所有參數數值皆不會與裝置同步，以及量測異常信件通知功能無法使用。";
+
+
+"Privacy Mode" = "隱私模式";
+
+"NextPage" = "下一頁";
+
+
+"Do you want to upload Data to Cloud ? If you choose to cancel, the existing record will be deleted" = "是否要將現有的紀錄上傳至雲端 ? 如果您選擇取消,現有的紀錄將會被刪除";
+
+"At microlife, we are deeply committed to empower you and your loved ones to live healthier lives." = "在microlife，我們致力於賦予您和您的親人更多的生命。";
+"Our mission is to bring innovative medical technologies to your home to make health management easier, smarter, and more accurate." = "我們的使命是將創新的醫療技術帶入您的家庭，使健康管理更輕鬆，更智能，更準確。";
+"Use Microlife Connect Health + for simple overview and safekeeping of your readings. Stay on top of your health with ease, anytime, anywhere." = "使用Microlife Connect Health +進行簡單的概述和保存讀數。 隨時隨地保持健康狀況。";
+"Set goals and reminders to establish healthy routines and monitor progresses for you and your loved ones." = "設定目標和提醒，以建立健康的例行程序，並監測您和您的親人的進度。";
+"Your partner for better health management." = "您的伴侶更好的健康管理。";
+
+//RegistViewController
+"Register" = "註冊";
+
+
+
+
+//MainOverviewViewController =======================================
+"YOUR BLOOD PRESSURE LISTS" = "您的血壓列表";
+"YOUR WEIGHT LISTS" = "您的體重列表";
+"YOUR BODY TEMPERATURE LISTS" = "您的體溫列表";
+"Weight" = "體重";
+"Body Fat" = "體脂肪";
+"BMI" = "BMI";
+"Body Temp." = "體溫";
+
+
+
+//RainbowBarView  =======================================
+//體重
+"Class III Obesity" = "肥胖 等級3";
+"Class II Obesity" = "肥胖 等級2";
+"Class I Obesity" = "肥胖 等級1";
+"Overweight" = "過重";
+"Normal" = "正常";
+"Underweight" = "過輕";
+
+
+
+//BTEventSelectorView  =======================================
+"Which event do you want to keep your measure datas?" = "請問您想同步至哪一個事件中?";
+
+
+
+
+
+
+//MainSettingViewController  =======================================
+"My Profile" = "我的資訊";
+"My Device" = "我的裝置";
+"Account" = "帳號";
+"Sync" = "同步";
+"You can not use MailNotification in Pravicy Mode" = "在隱私模式下你無法使用信件通知功能";
+
+
+//ProFileViewController  =======================================
+"Name" = "姓名";
+"Gender" = "性別";
+"Date of Birth" = "生日";
+"Height" = "身高";
+"Weight" = "體重";
+"Male" = "男性";
+"Female" = "女性";
+"Metric" = "公制單位";
+"Imperial" = "英制單位";
+"Systolic Pressure" = "目標收縮壓";
+"Diastolic Pressure" = "目標舒張壓";
+"Weight " = "目標體重";
+"BMI " = "目標BMI";
+"Body  Fat" = "目標體脂";
+"Threshold" = "正常範圍警戒值";
+"OPEN the Threshold & Target value displayed on the graph." = "選'On'顯示個人目標值於APP上的趨勢圖";
+"Risk Factors" = "健康危險因子";
+"Delete Account" = "刪除帳號";
+"Select the date format" = "日期格式設定";
+"My Goals" = "我的目標";
+"Are you sure to delete your account and all records in APP ?" = "是否已確定要刪除您的帳號及APP中的所有紀錄 ?";
+
+
+
+//RiskFactorsViewController  =======================================
+"Personal History of Hypertension" = "高血壓病史";
+"Personal History of Atrial Fibrillation" = "心房顫動病史";
+"Personal History of Diabetes" = "糖尿病病史";
+"Personal History of Cardiovascular diseases (CVD)" = "心血管疾病病史";
+"Personal History of Chronic Kidney Disease (CKD)" = "慢性腎臟病病史";
+"Personal History of Stroke/Transient Ischemic Attack (TIA)" = "中風&短暫性腦缺血病史";
+"Personal History of Dyslipidemia" = "血脂異常病史";
+"Personal History of Snoring & Sleep Aponea" = "打鼾&睡眠呼吸中止症病史";
+"Drug Use–Oral Contraception" = "用藥 - 口服避孕藥";
+"Drug Use–Anti-Hypertensive Drugs" = "用藥 - 降血壓藥";
+"Pregenancy - Normal" = "懷孕 - 正常";
+"Pregnancy–Pre-Eclampsia" = "懷孕 - 妊娠高血壓";
+"Smoking" = "抽菸";
+"Alcohol Intake" = "喝酒";
+
+
+//前台登入語系
+"lang" = "tw";//這個不用動
+
+"驗證成功" = "驗證成功";
+"驗證碼失效" = "驗證碼失效";
+"驗證失敗" = "驗證失敗";
+"原驗證碼失效" = "原驗證碼失效";
+
+
+//DeviceInstructionsViewController
+"Device Quick Start Guide" = "設備快速入門指南";
+"Blood Pressure Monitor - A6 BT" = "血壓計 - A6 BT";
+"Forehead Thermometer - NC150 BT" = "額頭溫度計 - NC150 BT";
+"Body Composition Scale - BFS800" = "身體成分量表 - BFS800";
+
+"Take Measurement & Upload Data" = "測量和上傳數據";
+"Upload Memory Data" = "上傳內存數據";
+
+"A6 BT - Page 1 Content" = "1.將袖口緊緊地套在上臂上。\n2.按\"開始\"開始測量。\n3.在測量過程中放鬆並保持靜止。\n4.測量完成後，藍牙將自動開啟。\n5.打開應用程序連接到A6 BT並下載數據。";
+"A6 BT - Page 2 Content" = "1.按\"+ \"打開藍牙。\n2.打開應用程序連接到A6 BT並下載數據。";
+
+"NC150 BT - Page 1 Content" = "1.打開溫度計。\n2.將額頭上的溫度計指向眉毛之間，距離≤5CM。\n3.按\"開始\"開始測量。\n4.測量完成後，藍牙將自動開啟。\n5.打開應用程序以連接到NC150 BT。\n6.選擇登錄應用程序下載並保存數據。 ";
+
+"BFS800 - Page 1 Content" = "1.打開應用程序。\n2.赤腳站在秤上。\n3.刻度將自動打開，激活藍牙，並測量重量。\n4.標尺將自動連接到應用程序，由藍牙圖標指示。\n5.當測量重量時，刻度然後測量身體組成，由進度條指示。\n6.測量完成後，進度條消失，數據將被上傳。";
+"BFS800 - Page 2 Content" = "1.按\"M\"打開內存模式。\n2.藍牙在內存模式下自動開啟。\n3.打開應用程序連接到NC150 BT。\n4.選擇登錄應用程序下載並保存數據。";
+
+//bar title
+"Overview" = "概況";
+"Reminder" = "提醒";
+"Hstory" = "歷史";
+"Setting" = "設定";
+
+//Overview
+"SYS/DIA" = "SYS/DIA";
+"PUL" = "PUL";
+"Target" = "目標";
+"WEI" = "WEI";
+"FAT" = "脂肪";
+"NormalLine" = "正常";
+
+"ALL" = "全部";
+"AM" = "AM";
+"PM" = "PM";
+"DAY" = "日";
+"WEEK" = "週";
+"MONTH" = "月";
+"YEAR" = "年";
+
+"Set the time to remind you of doing\nnecessary things you may forget.\nJust tap add button to\ncreate new alarm." = "設置時間提醒你做\n必要的事情，你可能會忘記\n只需點擊添加按鈕即可\n創建新的鬧鐘。";
+
+"Off" = "關閉";
+"Detected" = "檢測";
+"Not Detected" = "不檢測";
+
+
+
+
+//App Feature Introduction  *********************
+"APPFIMainTitle" = "APP Quick Start Guide";
+//---------------------
+"APPFI01_title" = "Privacy Mode";
+"APPFI01" = "1. Privacy Mode: Your data is only kept on this mobile device.\n2. Register a Microlife Connected Health+ Account.";
+//---------------------
+"APPFI02_title" = "Main Features";
+"APPFI02" = "1. App Menu\n2. Overview: Summary of the most recent data and trend.\n3. Reminder: Set reminders for regular measurements and other tasks.\n4. History: Display of complete measurement data and trends.\n5. Settings: Personalize user profile and change App settings.\n6. Swipe left or right to switch measurement type between Blood Pressure, Body Composition, and Body Temperature.";
+//---------------------
+"APPFI03_title" = "Menu";
+"APPFL03" = "1. Current User\n2. Info: Information related to personal healthcare, Microlife products and technologies.\n3. Notifications: the latest news from Microlife.\n4. About: App & Product User Guides, Terms & Conditions, and other App-related information.\n5. Logout: Logout of Microlife Connected Health+";
+//---------------------
+"APPFI04_title" = "Overview";
+"APPFI04" = "1. Display the most recent measurement.\n2. Trend Plot of measurements of the last 14 days.\n3. Select the data type of the Trend Plot.\n4. Trend Plot threshold markers.\n5. List of measurements of the last 14 days.";
+//---------------------
+"APPFI05_title" = "Reminder - 1";
+"APPFI05" = "1. Reminder Status.\n2. Reminder On/Off switch.\n3. Add new Reminders.";
+//---------------------
+"APPFI06_title" = "Reminder - 2";
+"APPFI06" = "1. Set Reminder activation time.\n2. Set Reminder activation days & repeat On/Off.\n3. Set Reminder task.\n4. Select the measurement type of the Reminder.\n5. Save settings.";
+//---------------------
+"APPFI07_title" = "History";
+"APPFI07" = "1. Select time frame of History.\n2. Display History time range.\n3. Select History data type.\n4. Data display filter - Morning/Evening/All Day.\n5. Trend Plot of History data.\n6. Trend Plot threshold markers.\n7. History statistical summary.\n8. List of History data measurements.\n9. Export History data report.";
+//---------------------
+"APPFI08_title" = "Settings";
+"APPFI08" = "1. Select to enter User Profile\n2. Information of devices connected to the App.\n3. Data Synchronization with App Health app *(iOS devices only)\n4. Setup Email contacts.\n5. Delete Blood Pressure Monitor data after download - On/Off.";
+//---------------------
+"APPFI09_title" = "My Profile";
+"APPFI09" = "1. Basic Information of User.\n2. Unit format settings.\n3. Set Goals values & Goal marker display On/Off.\n4. Threshold marker display On/Off.\n5. User Profile risk factor survey.\n6. Date display format settings.\n7. Delete User Account & Data.";
+//---------------------
+"APPFI10_title" = "About";
+"APPFI10" = "1. Basic Information of User.\n2. Unit format settings.\n3. Set Goals values & Goal marker display On/Off.\n4. Threshold marker display On/Off.\n5. User Profile risk factor survey.\n6. Date display format settings.\n7. Delete User Account & Data.";
+
+
+
+"Final measurement" = "最後測量於";
+

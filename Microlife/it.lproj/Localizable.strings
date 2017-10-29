@@ -1,0 +1,228 @@
+
+///////////********* 義大利語版 *********///////////
+
+
+//共用  =======================================
+"Alert" = "Mettere in guardia";                                              //文件未找到
+"Confirm" = "Conferma";
+"Cancel" = "Annulla";
+"Save" = "Salva";
+"HealthEducation" = "Informazioni sulla Salute";
+"Notification" = "Notifiche";
+"About" = "Info";
+"Logout" = "Logout";
+"Please check your wifi" = "Controlla prego il vostro wifi";            //文件未找到
+
+//email 相關
+"The Mail has been canceled" = "La posta è stata annullata";    //文件未找到
+"The Mail has been sent" = "La posta è stata inviata";            //文件未找到
+"The Mial has been saved" = "La posta è stata salvata";          //文件未找到
+"The Mail delivery failed" = "La consegna di posta non è riuscita";        //文件未找到
+
+
+
+
+//info.Plist  =======================================
+"CFBundleDisplayName" = "MicroLife";
+
+
+
+
+//NavViewController  =======================================
+"Microlife Connected Health+ offers a Privacy Mode for users who choose not to synchronize their data to Microlife Cloud. You do not need a Microlife Account to use Privacy Mode, and all your data are stored locally on your smart phone. Please Note that in Privacy Mode your data are not back up on cloud storage, and you will not receive any service-related and promotional information from Microlife." = "Microlife Connected Health+ offre la Modalità Privacy per gli utenti che scelgono di non sincronizzare i prorpi dati con Microlife Cloud. Non è necessario avere un Account Microlife per poter utilizzare la Modalità Privacy infatti tutti i dati dell'utente sono memorizzati sul suo smartphone. Si prega di notare che in Modalità Privacy non viene eseguito il back up dei dati sull'archivio Cloud e non si riceverà alcuna informazione promozionale nè servizi correlati da parte di Microlife.";
+
+
+"Privacy Mode" = "Modalità Privacy";
+
+"NextPage" = "NextPage";    //文件未找到
+
+"Do you want to upload Data to Cloud ? If you choose to cancel, the existing record will be deleted" = "Vuoi caricare i dati in Cloud? Se si sceglie di annullare, il record esistente verrà eliminato";    //文件未找到
+
+"At microlife, we are deeply committed to empower you and your loved ones to live healthier lives." = "In Microlife ci impegniamo a fondo per permettere a te ed ai tuoi cari di vivere in migliori condizioni di salute.";
+"Our mission is to bring innovative medical technologies to your home to make health management easier, smarter, and more accurate." = "La nostra missione consiste nel portare a casa tua tecnologie mediche innovative che ti permettano di gestire il tuo stato di salute in modo più semplice, più intelligente e con una maggiore precisione.";
+"Use Microlife Connect Health + for simple overview and safekeeping of your readings. Stay on top of your health with ease, anytime, anywhere." = "Utilizza Microlife Connected Health+ per avere un semplice quadro generale e salvare le tue letture. Mantieniti al massimo della salute con facilità, in qualsiasi momento e ovunque.";
+"Set goals and reminders to establish healthy routines and monitor progresses for you and your loved ones." = "Fissa obbiettivi e promemoria per stabilire la tua salutare routine e controlla i progressi tuoi e dei tuoi cari.";
+"Your partner for better health management." = "Il tuo partner per una migliore gestione della salute.";
+
+//RegistViewController
+"Register" = "Registrazione";
+
+
+
+
+
+
+
+//MainOverviewViewController  =======================================
+"YOUR BLOOD PRESSURE LISTS" = "Nel corso delle ultime due settimane la pressione arteriosa";
+"YOUR WEIGHT LISTS" = "Nel corso degli ultimi due settimane massa grassa";
+"YOUR BODY TEMPERATURE LISTS" = "Nel corso delle ultime due settimane la temperatura corporea";
+"Weight" = "Peso";
+"Body Fat" = "Grasso Corporeo";
+"BMI" = "BMI";
+"Body Temp." = "Temp corpo.";
+
+
+
+
+//RainbowBarView  =======================================
+//體重
+"Class III Obesity" = "Classe Obesità 3";
+"Class II Obesity" = "Classe Obesità 2";
+"Class I Obesity" = "Classe Obesità 1";
+"Overweight" = "Sovrappeso";
+"Normal" = "Normale";
+"Underweight" = "Sottopeso";
+
+//血壓
+
+
+
+
+//BTEventSelectorView  =======================================
+"Which event do you want to keep your measure datas?" = "Selezionare il registro dove desideri trasferire i dati?";
+
+
+//MainSettingViewController  =======================================
+"My Profile" = "Il mio Profilo";
+"My Device" = "I miei dispositivi";
+"Account" = "Account";
+"Sync" = "Sincronizzazione";
+"You can not use MailNotification in Pravicy Mode" = "La funzione selezionata non è disponibile nella modalità Privacy";
+
+
+
+//ProFileViewController  =======================================
+"Name" = "Nome";
+"Gender" = "Sesso";
+"Date of Birth" = "Data di Nascita";
+"Height" = "Altezza";
+"Weight" = "Peso";
+"Male" = "Uomo";
+"Female" = "Donna";
+"Metric" = "Metrico";
+"Imperial" = "Imperiale";
+"Systolic Pressure" = "Pressione Sistolica";
+"Diastolic Pressure" = "Pressioen Diastolica";
+"Weight " = "Peso ";
+"BMI " = "BMI ";
+"Body  Fat" = "Grasso Corporeo";
+"Threshold" = "Soglia";
+"OPEN the Threshold & Target value displayed on the graph." = "Attiva per visualizzare i tuoi obiettivi.";
+"Risk Factors" = "Fattori di Rischio";
+"Delete Account" = "Cancella Account";
+"Select the date format" = "Formato Data";    
+"My Goals" = "I miei Obiettivi";
+"Are you sure to delete your account and all records in APP ?" = "Confermare per cancellare il proprio Account. Attenzione! I dati su questo smartphone e sull'archivio Cloud saranno cancellati ?";
+
+
+
+//RiskFactorsViewController  =======================================
+"Personal History of Hypertension" = "Storia personale dell'Ipertensione";
+"Personal History of Atrial Fibrillation" = "Storia personale della Fibrillazione Atriale";
+"Personal History of Diabetes" = "Storia personale del Diabete";
+"Personal History of Cardiovascular diseases (CVD)" = "Storia personale di Malattie Cardiovascolari (CVD)";
+"Personal History of Chronic Kidney Disease (CKD)" = "Storia personale di Malattie Renali Croniche (CKD)";
+"Personal History of Stroke/Transient Ischemic Attack (TIA)" = "Storia personale di ICTUS/ Attacchi Ischemici Transitori (TIA)";
+"Personal History of Dyslipidemia" = "Storia personale di Dislipidemia";
+"Personal History of Snoring & Sleep Aponea" = "Storia personale di Roncopatia e Apnee Notturne";
+"Drug Use–Oral Contraception" = "Uso di Contraccettivi Orali";
+"Drug Use–Anti-Hypertensive Drugs" = "Uso di Farmaci Anti-Ipertensivi";
+"Pregenancy - Normal" = "Gravidanza-Normale";
+"Pregnancy–Pre-Eclampsia" = "Gravidanza-Preeclampsia";
+"Smoking" = "Fumare";
+"Alcohol Intake" = "Assunzione di Alcolici";
+
+//前台登入語系
+"lang" = "italian";//這個不用動
+
+"驗證成功" = "il successo di verifica";
+"驗證碼失效" = "il Codice";
+"驗證失敗" = "La convalida non riesce";
+"原驗證碼失效" = "codice non valido originale";
+
+//DeviceInstructionsViewController
+"Device Quick Start Guide" = "Guida all'avvio rapido del dispositivo";
+"Blood Pressure Monitor - A6 BT" = "Monitor di pressione sanguigna - A6 BT";
+"Forehead Thermometer - NC150 BT" = "Termometro frontale - NC150 BT";
+"Body Composition Scale - BFS800" = "Scala di composizione corporea - BFS800";
+
+"Take Measurement & Upload Data" = "Prendere dati di misurazione e caricamento";
+"Upload Memory Data" = "Carica dati di memoria";
+
+"A6 BT - Page 1 Content" = "1. Applicare il bracciale strettamente sul braccio superiore.\n2. Premere \"START\" per iniziare la misura.\n3. Rilassatevi e rimanete fermi durante la misurazione.\n4. Al termine della misurazione, Bluetooth si accenderà automaticamente.\n5. Aprire l'applicazione per connettersi a A6 BT e scaricare i dati.";
+"A6 BT - Page 2 Content" = "1. Premere \"+\" per attivare Bluetooth.\n2. Aprire l'applicazione per connettersi a A6 BT e scaricare i dati.";
+
+"NC150 BT - Page 1 Content" = "1. Accendere il termometro.\n2. Puntare il termometro sulla fronte tra le sopracciglia, con la distanza ≤5CM.\n3. Premere \"START\" per iniziare la misura.\n4. Una volta completata la misurazione, Bluetooth si accenderà automaticamente.\n5. Aprire l'App per connettersi a NC150 BT.\n6. Selezionare Log in App per scaricare e salvare i dati. ";
+
+"BFS800 - Page 1 Content" = "1. Aprire l'applicazione.\n2. Stai a piedi nudi sulla scala.\n3. La scala si accende automaticamente, attiva Bluetooth e misura il peso.\n4. La scala collega automaticamente l'applicazione, indicata dall'icona Bluetooth.\n5. Quando il peso viene misurato, la scala quindi misura la composizione del corpo, indicata da una barra di avanzamento.\n6. Una volta completata la misurazione, la barra di avanzamento scompare e i dati verranno caricati.";
+"BFS800 - Page 2 Content" = "1. Premere \"M\" per attivare la modalità Memoria.\n2. Bluetooth si accende automaticamente in modalità memoria.\n3. Aprire l'applicazione per connettersi a NC150 BT.\n4. Selezionare il Log in App per scaricare e salvare i dati. ";
+
+//bar title
+"Overview" = "Panoramica";
+"Reminder" = "Promemoria";
+"Hstory" = "Storia";
+"Setting" = "Ambientazione";
+
+//Overview
+"SYS/DIA" = "SYS/DIA";
+"PUL" = "PUL";
+"Target" = "Bersaglio";
+"WEI" = "WEI";
+"FAT" = "GRASSO";
+"NormalLine" = "Normale";
+
+"ALL" = "TUTTI";
+"AM" = "AM";
+"PM" = "PM";
+"DAY" = "GIORNO";
+"WEEK" = "SETTIMANA";
+"MONTH" = "MESE";
+"YEAR" = "ANNO";
+
+"Set the time to remind you of doing\nnecessary things you may forget.\nJust tap add button to\ncreate new alarm." = "Impostare il tempo per ricordarvi di fare le cose\nnecessarie che potresti dimenticare.\nBasta toccare il pulsante Aggiungi per\ncreare un nuovo allarme.";
+
+"Off" = "via";
+"Detected" = "rilevato";
+"Not Detected" = "Non rilevata";
+
+
+
+
+
+
+//App Feature Introduction  *********************
+"APPFIMainTitle" = "APP Quick Start Guide";
+//---------------------
+"APPFI01_title" = "Privacy Mode";
+"APPFI01" = "1. Privacy Mode: Your data is only kept on this mobile device.\n2. Register a Microlife Connected Health+ Account.";
+//---------------------
+"APPFI02_title" = "Main Features";
+"APPFI02" = "1. App Menu\n2. Overview: Summary of the most recent data and trend.\n3. Reminder: Set reminders for regular measurements and other tasks.\n4. History: Display of complete measurement data and trends.\n5. Settings: Personalize user profile and change App settings.\n6. Swipe left or right to switch measurement type between Blood Pressure, Body Composition, and Body Temperature.";
+//---------------------
+"APPFI03_title" = "Menu";
+"APPFL03" = "1. Current User\n2. Info: Information related to personal healthcare, Microlife products and technologies.\n3. Notifications: the latest news from Microlife.\n4. About: App & Product User Guides, Terms & Conditions, and other App-related information.\n5. Logout: Logout of Microlife Connected Health+";
+//---------------------
+"APPFI04_title" = "Overview";
+"APPFI04" = "1. Display the most recent measurement.\n2. Trend Plot of measurements of the last 14 days.\n3. Select the data type of the Trend Plot.\n4. Trend Plot threshold markers.\n5. List of measurements of the last 14 days.";
+//---------------------
+"APPFI05_title" = "Reminder - 1";
+"APPFI05" = "1. Reminder Status.\n2. Reminder On/Off switch.\n3. Add new Reminders.";
+//---------------------
+"APPFI06_title" = "Reminder - 2";
+"APPFI06" = "1. Set Reminder activation time.\n2. Set Reminder activation days & repeat On/Off.\n3. Set Reminder task.\n4. Select the measurement type of the Reminder.\n5. Save settings.";
+//---------------------
+"APPFI07_title" = "History";
+"APPFI07" = "1. Select time frame of History.\n2. Display History time range.\n3. Select History data type.\n4. Data display filter - Morning/Evening/All Day.\n5. Trend Plot of History data.\n6. Trend Plot threshold markers.\n7. History statistical summary.\n8. List of History data measurements.\n9. Export History data report.";
+//---------------------
+"APPFI08_title" = "Settings";
+"APPFI08" = "1. Select to enter User Profile\n2. Information of devices connected to the App.\n3. Data Synchronization with App Health app *(iOS devices only)\n4. Setup Email contacts.\n5. Delete Blood Pressure Monitor data after download - On/Off.";
+//---------------------
+"APPFI09_title" = "My Profile";
+"APPFI09" = "1. Basic Information of User.\n2. Unit format settings.\n3. Set Goals values & Goal marker display On/Off.\n4. Threshold marker display On/Off.\n5. User Profile risk factor survey.\n6. Date display format settings.\n7. Delete User Account & Data.";
+//---------------------
+"APPFI10_title" = "About";
+"APPFI10" = "1. Basic Information of User.\n2. Unit format settings.\n3. Set Goals values & Goal marker display On/Off.\n4. Threshold marker display On/Off.\n5. User Profile risk factor survey.\n6. Date display format settings.\n7. Delete User Account & Data.";
+
+"Final measurement" = "Ultima misura a";
+
